@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SIT1602AC_22_33E_12") (type "KiCad") (uri "${KIPRJMOD}/Library/SIT1602AC_22_33E_12_000000E/KiCADv6/2026-06-02_22-53-57.kicad_sym") (options "") (descr ""))
+)
