@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "GP2040-CE_Library") (type "KiCad") (uri "C:/ws/Hardware/KiCad-Footprints/GP2040-CE_Library.pretty") (options "") (descr ""))
+)

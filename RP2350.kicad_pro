@@ -252,8 +252,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "GP2040-CE_Library"
+    ],
+    "pinned_symbol_libs": [
+      "GP2040-CE_Library"
+    ]
   },
   "meta": {
     "filename": "RP2350.kicad_pro",
@@ -416,17 +420,13 @@
         "uuid": "80f960a8-991c-4089-b403-09fd39c0cfbe"
       }
     ],
-    "used_designators": "U1,C1-21,J1-2,R1-24,#PWR1-5,XTAL1-2",
+    "used_designators": "U3-4,D1-3,BT1-2,#PWR12-18,#FLG1-4,SW1-2",
     "variants": []
   },
   "sheets": [
     [
       "80f960a8-991c-4089-b403-09fd39c0cfbe",
       "Root"
-    ],
-    [
-      "53dd5124-deaf-4809-aa35-20342a042cb7",
-      "USB-C"
     ]
   ],
   "text_variables": {},
